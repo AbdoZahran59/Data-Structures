@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1667057926 source:d:\new ds\stack\base stack\test.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1666213414 source:d:\new ds\stack\base stack\stack.c
+	"stack.h"
+
+1667057843 d:\new ds\stack\base stack\stack.h
+	"Global.h"
+
+1667057816 source:d:\new ds\stack\base stack\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667057816 source:d:\new ds\stack\base stack\queue.c
+	"Queue.h"
+
+1667057816 d:\new ds\stack\base stack\queue.h
+	"Global.h"
+
+1667057822 d:\new ds\stack\base stack\global.h
+
