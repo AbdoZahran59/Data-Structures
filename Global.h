@@ -1,10 +1,10 @@
 #ifndef GLOBAL_H_INCLUDED
 #define GLOBAL_H_INCLUDED
-#define Max 10
+
 
 typedef struct {
     int id;
-    char name[5];
-}Customer;
+    int Priority[5];
+}Process;
 
 #endif // GLOBAL_H_INCLUDED

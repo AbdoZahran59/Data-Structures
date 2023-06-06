@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1667064926 source:d:\new ds\customer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+	"Queue.h"
+
+1667063333 source:d:\new ds\customer\queue.c
+	"Queue.h"
+
+1667063333 d:\new ds\customer\queue.h
+	"Global.h"
+
+1668273482 d:\new ds\customer\global.h
+
+1667061627 source:d:\new ds\customer\stack.c
+	"Stack.h"
+
+1667061613 d:\new ds\customer\stack.h
+	"Global.h"
+
+1668273386 source:d:\new ds\customer\queuelinked.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueLinked.h"
+
+1668273681 d:\new ds\customer\queuelinked.h
+
