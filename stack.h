@@ -1,6 +1,6 @@
 #ifndef STACK_H_INCLUDED
 #define STACK_H_INCLUDED
-#define Max 1
+#define Max 10
 typedef char EntryType;
 
 typedef struct Stack{
@@ -18,4 +18,5 @@ void DestroyStack(StackType *s);
 void StackCopy(StackType *s , StackType *s2);
 int StackEmpty (StackType *s);
 int StackFull (StackType *s);
+EntryType peek(StackType *s);
 #endif // STACK_H_INCLUDED

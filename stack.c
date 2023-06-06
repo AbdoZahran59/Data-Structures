@@ -43,3 +43,11 @@ int StackFull (StackType *s){
         return 0;
 
 }
+EntryType peek(StackType *s){
+    EntryType item;
+    if(s->top== -1)
+        printf("Underflow Error\n");
+    else
+        item=s->Entry[s->top];
+    return item;
+}
